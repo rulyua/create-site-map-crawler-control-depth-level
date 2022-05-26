@@ -1,0 +1,21 @@
+https://www.reducmiz.com/mailto:bug@reducmiz.com
+https://www.reducmiz.com/javascript:clicsur(0);
+https://www.reducmiz.com/javascript:clicsur(1);
+https://www.reducmiz.com/javascript:clicsur(2);
+https://www.reducmiz.com/javascript:courant=0; recalculeGrille();
+https://www.reducmiz.com/javascript:courant=14; recalculeGrille();
+https://www.reducmiz.com/javascript:courant=7; grilleAntiFavoris();
+https://www.reducmiz.com/javascript:courant=16; recalculeGrille();
+https://www.reducmiz.com/javascript:courant=8; grilleAntiFavoris();
+https://www.reducmiz.com/javascript:courant=24; recalculeGrille();
+https://www.reducmiz.com/javascript:courant=12; grilleAntiFavoris();
+https://www.reducmiz.com/javascript:courant=28; recalculeGrille();
+https://www.reducmiz.com/javascript:courant=14; grilleAntiFavoris();
+https://www.reducmiz.com/javascript:remplir_aleatoirement();
+https://www.reducmiz.com/javascript:viderLaGrille();
+https://www.reducmiz.com/lotofoot_eval.php
+https://www.reducmiz.com/javascript:vider();
+https://www.reducmiz.com/javascript:remplir_avec_ecarts();
+https://www.reducmiz.com/javascript:remplir_avec_meilleursrapports();
+https://www.reducmiz.com/calendrier_tirages_fdj.php
+https://www.reducmiz.com/mailto:info@reducmiz.com
